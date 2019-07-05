@@ -1,0 +1,7 @@
+.idea/
+/var/log/*
+/tcp-proxy
+/tmp/
+/vendor/
+/.env.*
+!/.env.example
